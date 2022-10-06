@@ -2,8 +2,6 @@ Some of my Projects dont have the source code. My computer got corrupted and i h
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SoftwareMadness&hide=contribs,prs&theme=cobalt)
 <!--
-**AnthonyOpenSource/anthonyopensource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
